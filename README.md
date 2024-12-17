@@ -1,1 +1,1 @@
-# Sucide-rate-analysis-
+# Suicide-rate-analysis-
