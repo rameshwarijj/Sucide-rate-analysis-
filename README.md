@@ -1,1 +1,1 @@
-# Suicide-rate-analysis-
+# Suicide-rate-analysis-using Machine learning algorithm
